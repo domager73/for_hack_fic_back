@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/for_hack_fic.props" />
+</Project>
