@@ -133,3 +133,4 @@
 /Users/domager73/Documents/c#ConsoleAplication/for_hack_fic/for_hack_fic/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/domager73/Documents/c#ConsoleAplication/for_hack_fic/for_hack_fic/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/domager73/Documents/c#ConsoleAplication/for_hack_fic/for_hack_fic/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/domager73/Documents/c#ConsoleAplication/for_hack_fic/for_hack_fic/obj/Debug/net8.0/for_hack_fic.sourcelink.json
